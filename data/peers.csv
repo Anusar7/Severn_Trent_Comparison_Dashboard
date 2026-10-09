@@ -1,0 +1,184 @@
+measure_id,company,actual
+cmex,Anglian Water,77.38
+cmex,Dŵr Cymru,79.56
+cmex,Hafren Dyfrdwy,77.61
+cmex,Northumbrian Water,80.37
+cmex,Severn Trent Water,74.43
+cmex,South West Water – South West region,69.48
+cmex,Southern Water,65.13
+cmex,Thames Water,61.44
+cmex,United Utilities,76.36
+cmex,Wessex Water,79.71
+cmex,Yorkshire Water,74.48
+cmex,Affinity Water,70.1
+cmex,South West Water – Bristol region,77.76
+cmex,Portsmouth Water,77.78
+cmex,South East Water,71.82
+cmex,South Staffs Water,74.74
+cmex,SES Water,69.72
+psr,Anglian Water,14.7
+psr,Dŵr Cymru,16.6
+psr,Hafren Dyfrdwy,9.6
+psr,Northumbrian Water,13.2
+psr,Severn Trent Water,9.9
+psr,South West Water – South West region,13.1
+psr,Southern Water,15.3
+psr,Thames Water,10.4
+psr,United Utilities,16.5
+psr,Wessex Water,12.1
+psr,Yorkshire Water,10.6
+psr,Affinity Water,13.3
+psr,South West Water – Bristol region,11
+psr,Portsmouth Water,15.5
+psr,South East Water,14.1
+psr,South Staffs Water,14.9
+psr,SES Water,15.8
+leakage,Anglian Water,3.9
+leakage,Dŵr Cymru,-15
+leakage,Hafren Dyfrdwy,10.4
+leakage,Severn Trent Water,16.8
+leakage,South West Water – South West region,9.2
+leakage,Southern Water,-4.7
+leakage,Thames Water,13.2
+leakage,United Utilities,7.3
+leakage,Wessex Water,4.5
+leakage,Yorkshire Water,15.1
+leakage,Affinity Water,19.4
+leakage,South West Water – Bristol region,5.4
+leakage,Portsmouth Water,-3.9
+leakage,South East Water,-8
+leakage,SES Water,15.9
+leakage,Northumbrian – Northern,12
+leakage,Northumbrian – Essex & Suffolk,17.6
+leakage,South Staffs – Staffordshire,13.9
+leakage,South Staffs – Cambridge,21.8
+pcc,Anglian Water,128.7
+pcc,Dŵr Cymru,148.8
+pcc,Hafren Dyfrdwy,130.5
+pcc,Northumbrian Water,152.7
+pcc,Severn Trent Water,133.1
+pcc,South West Water – South West region,149.4
+pcc,Southern Water,127.4
+pcc,Thames Water,138.2
+pcc,United Utilities,134.3
+pcc,Wessex Water,133.1
+pcc,Yorkshire Water,125.7
+pcc,Affinity Water,155
+pcc,South West Water – Bristol region,146
+pcc,Portsmouth Water,155.5
+pcc,South East Water,145.7
+pcc,SES Water,147.9
+pcc,South Staffs – Staffordshire,140.1
+pcc,South Staffs – Cambridge,125.1
+interruptions,Anglian Water,411
+interruptions,Dŵr Cymru,8264
+interruptions,Hafren Dyfrdwy,671
+interruptions,Northumbrian Water,280
+interruptions,Severn Trent Water,274
+interruptions,South West Water – South West region,884
+interruptions,Southern Water,8510
+interruptions,Thames Water,575
+interruptions,United Utilities,857
+interruptions,Wessex Water,600
+interruptions,Yorkshire Water,507
+interruptions,Affinity Water,201
+interruptions,South West Water – Bristol region,441
+interruptions,Portsmouth Water,121
+interruptions,South East Water,2646
+interruptions,South Staffs Water,904
+interruptions,SES Water,1600
+cri,Anglian Water,2.11
+cri,Dŵr Cymru,4.28
+cri,Hafren Dyfrdwy,1.1
+cri,Northumbrian Water,10.94
+cri,Severn Trent Water,10.32
+cri,South West Water – South West region,1.19
+cri,Southern Water,3.82
+cri,Thames Water,2.04
+cri,United Utilities,10.28
+cri,Wessex Water,1.31
+cri,Yorkshire Water,3.61
+cri,Affinity Water,1.44
+cri,South West Water – Bristol region,2.84
+cri,Portsmouth Water,0.45
+cri,South East Water,1.09
+cri,South Staffs Water,6.58
+cri,SES Water,0
+outage,Anglian Water,1.88
+outage,Dŵr Cymru,0.34
+outage,Hafren Dyfrdwy,0.38
+outage,Northumbrian Water,1.95
+outage,Severn Trent Water,1.46
+outage,South West Water – South West region,2.09
+outage,Southern Water,3.21
+outage,Thames Water,1.8
+outage,United Utilities,1.85
+outage,Wessex Water,2
+outage,Yorkshire Water,2.48
+outage,Affinity Water,1.45
+outage,South West Water – Bristol region,1.57
+outage,Portsmouth Water,0.83
+outage,South East Water,2.1
+outage,South Staffs Water,1.09
+outage,SES Water,4.01
+mains,Anglian Water,133.4
+mains,Dŵr Cymru,163.8
+mains,Hafren Dyfrdwy,103.8
+mains,Northumbrian Water,122.6
+mains,Severn Trent Water,102.2
+mains,South West Water – South West region,127.5
+mains,Southern Water,122.9
+mains,Thames Water,146.4
+mains,United Utilities,103.5
+mains,Wessex Water,151.1
+mains,Yorkshire Water,173.8
+mains,Affinity Water,113.4
+mains,South West Water – Bristol region,121
+mains,Portsmouth Water,66.8
+mains,South East Water,138.2
+mains,South Staffs Water,117.9
+mains,SES Water,61.9
+internal,Anglian Water,1.41
+internal,Dŵr Cymru,1.26
+internal,Hafren Dyfrdwy,2.26
+internal,Northumbrian Water,1.03
+internal,Severn Trent Water,1.52
+internal,South West Water – South West region,0.63
+internal,Southern Water,1.34
+internal,Thames Water,1.83
+internal,United Utilities,3.48
+internal,Wessex Water,1.56
+internal,Yorkshire Water,2.21
+pollution,Anglian Water,57.17
+pollution,Dŵr Cymru,36.41
+pollution,Hafren Dyfrdwy,39.84
+pollution,Northumbrian Water,38.97
+pollution,Severn Trent Water,29.3
+pollution,South West Water – South West region,108.37
+pollution,Southern Water,67.71
+pollution,Thames Water,43.13
+pollution,United Utilities,44.87
+pollution,Wessex Water,62.1
+pollution,Yorkshire Water,28.89
+treatment,Anglian Water,99.28
+treatment,Dŵr Cymru,98.71
+treatment,Hafren Dyfrdwy,100
+treatment,Northumbrian Water,97.21
+treatment,Severn Trent Water,99.46
+treatment,South West Water – South West region,98.1
+treatment,Southern Water,98.23
+treatment,Thames Water,98.69
+treatment,United Utilities,98.2
+treatment,Wessex Water,99.68
+treatment,Yorkshire Water,98.39
+collapses,Anglian Water,4.53
+collapses,Dŵr Cymru,6.2
+collapses,Hafren Dyfrdwy,4.01
+collapses,Northumbrian Water,7.33
+collapses,Severn Trent Water,6.31
+collapses,South West Water – South West region,7.54
+collapses,Southern Water,6.19
+collapses,Thames Water,2.38
+collapses,United Utilities,12.93
+collapses,Wessex Water,5
+collapses,Yorkshire Water,6.97
