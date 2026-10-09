@@ -121,7 +121,7 @@ layout should prompt review, not a silent update.
 
 ## Present or share
 
-Run locally before the interview and leave the app open. Start with the overview,
+Start with the overview,
 then explore pollution, internal flooding and CRI, and finish with recommendations.
 
 The ZIP contains the working application; it is not itself a public website.
